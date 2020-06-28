@@ -8,11 +8,11 @@ This application will allow creating/removing/updating/fetching TODO items. Each
 
 # How to deploy Backend 
 
-cd backend
-npm install
+cd backend \n
+npm install\n
 sls deploy -v
 
 # Start Frontend
-cd client
-npm install
+cd client \n
+npm install \n
 npm run start
