@@ -7,12 +7,11 @@ To implement this project, you need to implement a simple TODO application using
 This application will allow creating/removing/updating/fetching TODO items. Each TODO item can optionally have an attachment image. Each user only has access to TODO items that he/she has created.
 
 # How to deploy Backend 
-
-cd backend \n
-npm install\n
+cd backend  
+npm install  
 sls deploy -v
 
 # Start Frontend
-cd client \n
-npm install \n
+cd client  
+npm install   
 npm run start
